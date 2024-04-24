@@ -8,4 +8,4 @@ Nesse exemplo, percebemos que a SRP está sendo violada, pois a classe carro faz
 
 ![image](https://github.com/MonoHenry/apsCode/assets/142462239/077c5acd-5325-41c2-a743-add85968051a)
 
-Já nesse caso, percebemos que a classe de Carro mexe apenas com a função de ligar o carro, a classe de LigarMecanicoé usada para ligar para o mecânico, e a classe CalcIPVA é usada para calculaor IPVA, dando assim um único próposito para a classe (isso não significa que uma classe deva ter apenas uma função, mas que elas devem ser de um mesmo escopo, por exemplo, a classe Carro poderia ter a função de desligar, ou acelerar, e isso não violaria o princípio de responsabilidade única.
+Já nesse caso, percebemos que a classe de Carro mexe apenas com a função de ligar o carro, a classe de LigarMecanico é usada para ligar para o mecânico, e a classe CalcIPVA é usada para calcular o IPVA, dando assim um único próposito para a classe (isso não significa que uma classe deva ter apenas uma função, mas que elas devem ser de um mesmo escopo, por exemplo, a classe Carro poderia ter a função de desligar, ou acelerar, e isso não violaria o princípio de responsabilidade única).
