@@ -1,7 +1,7 @@
 Liskov Substitution Principle
 
 O princípio de Liskov diz "Se q(x) é uma propriedade demonstrável dos objetos x de tipo T. Então q(y) deve ser verdadeiro para objetos y de tipo S onde S é um subtipo de T".
-Isso soa bem confuso, mas explicando de uma forma simples, uma subclasse deve possuir apenas os métodos que serão usados por suas subclasses.
+Isso soa bem confuso, mas explicando de uma forma simples, uma classe deve possuir apenas os métodos que serão usados por suas subclasses.
 
 ![image](https://github.com/MonoHenry/EngSoft/assets/142462239/e559acff-f9d6-40a3-b500-8b8f78393f4e)
 
