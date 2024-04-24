@@ -7,4 +7,4 @@ SOLID é um acrônimo para:
       **I** — **I**nterface Segregation Principle (Princípio da Segregação da Interface)  
       **D** — **D**ependency Inversion Principle (Princípio da inversão da dependência)  
 
-Os princípios SOLID nos ajuda a criar designs manuteníveis, flexíveis e reusáveis. E nesse repositório será explicado cada princípio com ilustrações, para um mais fácil entendimento.
+Os princípios SOLID nos ajuda a criar designs manuteníveis, flexíveis e reusáveis. E nesse repositório será explicado quatro princípio com ilustrações, para um mais fácil entendimento.
