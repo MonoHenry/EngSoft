@@ -2,8 +2,7 @@ Single Responsibility Principle
 
 Esse príncipio pode ser entendido por cada classe, função ou módulo deve ter apenas uma responsabilididade/propósito no programa, a frase que resume esse princípio é "Uma classe deve ter um, e somente um, motivo para mudar".
 
-
-![image](https://github.com/MonoHenry/apsCode/assets/142462239/2346a6df-3e63-4f8a-81f6-7a1befbc709b)
+![image](https://github.com/MonoHenry/EngSoft/assets/142462239/c717b28c-c751-4b6d-9db8-5dd0f8652790)
 
 Nesse exemplo, percebemos que a SRP está sendo violada, pois a classe carro faz coisas que não deveriam ser de sua responsabilidade, como ligar para o mecânico e calcular o IPVA.
 
