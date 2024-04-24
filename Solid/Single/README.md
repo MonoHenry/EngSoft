@@ -1,6 +1,6 @@
 Single Responsibility Principle
 
-Esse príncipio pode ser entendido por cada classe, função ou módulo deve ter apenas uma responsabilididade/propósito no programa, a frase que resume esse princípio é ""Uma classe deve ter um, e somente um, motivo para mudar.
+Esse príncipio pode ser entendido por cada classe, função ou módulo deve ter apenas uma responsabilididade/propósito no programa, a frase que resume esse princípio é "Uma classe deve ter um, e somente um, motivo para mudar".
 
 
 ![image](https://github.com/MonoHenry/apsCode/assets/142462239/2346a6df-3e63-4f8a-81f6-7a1befbc709b)
