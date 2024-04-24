@@ -6,12 +6,12 @@ Isso soa bem confuso, mas explicando de uma forma simples, uma subclasse deve po
 ![image](https://github.com/MonoHenry/EngSoft/assets/142462239/e559acff-f9d6-40a3-b500-8b8f78393f4e)
 
 
-Aqui percebemos que a classe Moto implementa todos os métodos da classe Automóvel, seguindo o princípio de Liskov, porém e se tentarmos implementar uma classe chamada Carro?
+Aqui percebemos que a classe Moto implementa todos os métodos da classe Automovel, seguindo o princípio de Liskov, porém e se tentarmos implementar uma classe chamada Carro?
 
 ![image](https://github.com/MonoHenry/EngSoft/assets/142462239/4172b4c1-0268-4153-b62f-2ca8007aaa0b)
 
 
-Aqui encontramos um problema, a função empinar não da pra ser implementada na classe carro, ferindo o princípio de Liskov.
+Aqui encontramos um problema, a função empinar não pode ser implementada na classe carro, ferindo o princípio de Liskov.
 
 ![image](https://github.com/MonoHenry/EngSoft/assets/142462239/30bb32c9-a23d-4a6c-b274-c7ba39c612a7)
 
