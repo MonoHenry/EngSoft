@@ -15,5 +15,5 @@ Aqui encontramos um problema, a função empinar não pode ser implementada na c
 
 ![image](https://github.com/MonoHenry/EngSoft/assets/142462239/30bb32c9-a23d-4a6c-b274-c7ba39c612a7)
 
-Esta seria uma solução para resolver esse problema, automóveis com mais de duas rodas extendem a classe AutomovelMais2Rodas, então por exemplo, aqui foi implementado a classe Carro, mas a classe Caminhão, Carreta, Bi-Trem todas poderiam ser implementedas a partir dessa classe sem ferir o princípio de Liskov, e ao mesmo tempo, a classe Moto pôde ser implementada usando a classe Automovel2Rodas, fazendo uso de todos os métodos dentro da entidade inicial.
+Esta seria uma solução para resolver esse problema, automóveis com mais de duas rodas extendem a classe AutomovelMais2Rodas, então por exemplo, aqui foi implementado a classe Carro, mas a classe Caminhão, Carreta, Bi-Trem poderiam ser implementedas a partir dessa classe sem ferir o princípio de Liskov, e ao mesmo tempo, a classe Moto pôde ser implementada usando a classe Automovel2Rodas, fazendo uso de todos os métodos dentro da entidade inicial.
 
