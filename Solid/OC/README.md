@@ -1,6 +1,6 @@
 Open-Closed Principle
 
-O princípio Open-Closed fiz que uma entidade de software deve estar aberta para extensão mas fechada para modificação.
+O princípio Open-Closed exige que uma entidade de um software esteja aberta para extensão mas fechada para modificação.
 Isso implica que classes, funções, entre outros, devem ser criadas para que suas funcionalidades centrais possam ser extendidas para outras entidades sem alterar o código da entidade inicial.
 
 ![image](https://github.com/MonoHenry/EngSoft/assets/142462239/bdd9fafb-95a0-4e2d-aeaa-b844d445a7ab)
